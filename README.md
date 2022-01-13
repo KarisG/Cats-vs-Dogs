@@ -1,4 +1,4 @@
-# Cats-vs-Dogs
+# Cats vs Dogs
 
 In this projects, I will try to classify cats and dogs images.
 
